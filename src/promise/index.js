@@ -16,4 +16,4 @@ countVacas.then((result) =>{
     console.log(result);
 }).catch((error) =>{
     console.log(error);
-}).finally(()=>console.log('finally'))
+}).finally(()=>console.log('finally'));
